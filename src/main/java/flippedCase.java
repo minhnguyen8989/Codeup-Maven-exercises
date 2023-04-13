@@ -2,7 +2,7 @@ import org.apache.commons.lang3.StringUtils;
 
 import java.util.Scanner;
 
-public class StudentTest {
+public class flippedCase {
     public static void main(String[] args) {
 
         Scanner objectScanner = new Scanner(System.in);
